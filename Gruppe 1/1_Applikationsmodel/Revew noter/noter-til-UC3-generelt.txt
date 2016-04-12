@@ -1,0 +1,17 @@
+Review på UC3:
+
+hvorfor mangler controller på sequence diagram.
+
+se tegning i sequence diagram.
+
+Mangler diagram over alle udvidelserne.
+
+klasser får de funktioner der peger væk fra klassen?
+
+eksempeltvis storeUnit(unit) er en funktion der hører 
+til SD-kort modul-klassen som kan kaldes fra styreboksen. 
+derfor skal den skrives på SD-kort Modul klassen, og ikke
+styreboksklassen, dette er et generelt problem.
+
+Hvor kommer openAddUnit() fra på controller klassen, den ses ikke
+på sequence diagram.
