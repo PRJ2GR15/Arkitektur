@@ -3,3 +3,6 @@ Noter til begge:
 controller på sequence diagram
 Manglende udvidelser
 methoder i forhold til pile.
+
+Generelt mangler state-machine diagrammer. 
+
