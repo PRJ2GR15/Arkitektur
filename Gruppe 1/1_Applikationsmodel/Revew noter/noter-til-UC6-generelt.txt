@@ -1,0 +1,12 @@
+Noter UC6
+
+Mangler metoder på klassediagram for UC6
+Mangler alle udvidelser.
+
+Mangler Controller klasse på sequence diagram. 
+Kunne eventuelt løses ved at fjerne pc software klassen og 
+lade den være kontrollerklassen.
+
+Generelt mangler state-machine diagrammer. 
+
+
